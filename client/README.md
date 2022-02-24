@@ -5,7 +5,7 @@ Social-login App
 [website](https://oloriasabi.github.io/form-app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/olorii_ashabi?color=1DA1F2&logo=twitter&style=for-the-badge)]
 
-## I'm a Developer and DJ!!
+## I'm a Developer and DJ!
 
 I built a React Logn Authentication with social media such as Google and Github.
 
